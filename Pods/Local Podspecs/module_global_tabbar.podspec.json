@@ -1,0 +1,49 @@
+{
+  "name": "module_global_tabbar",
+  "version": "0.1.0",
+  "summary": "A short description of module_global_tabbar.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/John/module_global_tabbar",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "John": "none"
+  },
+  "source": {
+    "git": "https://github.com/John/module_global_tabbar.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "*/*.*",
+  "subspecs": [
+    {
+      "name": "Controller",
+      "source_files": "Controller/*.{h,m}",
+      "public_header_files": "Controller/*.{h}"
+    },
+    {
+      "name": "Data",
+      "source_files": "Data/*.{h,m}",
+      "public_header_files": "Data/*.{h}"
+    },
+    {
+      "name": "View",
+      "source_files": "View/*.{h,m}",
+      "public_header_files": "View/*.{h}"
+    },
+    {
+      "name": "Factory",
+      "source_files": "Factory/*.{h,m}",
+      "public_header_files": "Factory/*.{h}"
+    },
+    {
+      "name": "Header",
+      "source_files": "Header/*.{h,m}",
+      "public_header_files": "Header/*.{h}"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+PODS:
+  - module_global_tabbar (0.1.0):
+    - module_global_tabbar/Controller (= 0.1.0)
+    - module_global_tabbar/Data (= 0.1.0)
+    - module_global_tabbar/Factory (= 0.1.0)
+    - module_global_tabbar/Header (= 0.1.0)
+    - module_global_tabbar/View (= 0.1.0)
+  - module_global_tabbar/Controller (0.1.0)
+  - module_global_tabbar/Data (0.1.0)
+  - module_global_tabbar/Factory (0.1.0)
+  - module_global_tabbar/Header (0.1.0)
+  - module_global_tabbar/View (0.1.0)
+
+DEPENDENCIES:
+  - module_global_tabbar (from `module_global_tabbar/module_global_tabbar.podspec`)
+
+EXTERNAL SOURCES:
+  module_global_tabbar:
+    :path: module_global_tabbar/module_global_tabbar.podspec
+
+SPEC CHECKSUMS:
+  module_global_tabbar: a9354ccdd9ee7319be967606404f74b2ab8034d3
+
+PODFILE CHECKSUM: ab7a163c22fa729bb8928e8af7938b29b75cd23c
+
+COCOAPODS: 1.12.0
