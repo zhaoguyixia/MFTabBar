@@ -7,36 +7,38 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		017FC78ABE9C0FBF8B90751668EAEA2F /* MFTabbarInterface.h in Headers */ = {isa = PBXBuildFile; fileRef = 2D85A6B7082B953CFF9EC6E9D059495F /* MFTabbarInterface.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		054230D1CCF2095EBC1522E0A85E074F /* HPFilterTabBarAnimateTool.h in Headers */ = {isa = PBXBuildFile; fileRef = 1F3938E5F119006BDB86459EFD8980EA /* HPFilterTabBarAnimateTool.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		10832810F0B506F7EA7D4A11DD39FADE /* MFTabFactoryInterface.h in Headers */ = {isa = PBXBuildFile; fileRef = 6EFC7DD42E88F89EED95A04B8ABC9A05 /* MFTabFactoryInterface.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		13B69E61DBE2E2DE35EF994377E8987F /* Pods-Tabbar-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = F56D11F7EF047DD4B94D31066DDF2A34 /* Pods-Tabbar-dummy.m */; };
-		242BD07DD7C366726F1B213DCD2D9F7F /* MFNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2381BC6F6E98119DACBF3A91042C3CFB /* MFNavigationController.m */; };
-		30C45C0BDEDED5C8CFBA1738227A1791 /* MFTabbarItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 231902DE9B5C324DF759CD23F8DB7B03 /* MFTabbarItem.m */; };
-		36C37BDF65C6D3A071957AF3564876AF /* MFTabbarFactory.h in Headers */ = {isa = PBXBuildFile; fileRef = 962E36410CA7A3E923AA0214BBDAC3C6 /* MFTabbarFactory.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		38CEEC8C16F08A792DE8BB93AC8629DA /* MFTabbarItemModel.m in Sources */ = {isa = PBXBuildFile; fileRef = D47ACF7A089004EF19BFFD9BC8F9927D /* MFTabbarItemModel.m */; };
-		3BC70C299966026E842C77805D8E1A5F /* UIView+HPAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 2496F7864D7482584311F7D79ECE477F /* UIView+HPAdditions.m */; };
-		5E2D0FA68C8ECD868F308686F09C7DAD /* MFTabbarItemDataInterface.h in Headers */ = {isa = PBXBuildFile; fileRef = 9ED1DB9CCA54830E1528FD17D042BD04 /* MFTabbarItemDataInterface.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		605E8C185373174FE162D7CB4E7211B5 /* MFTabbarDataManager.m in Sources */ = {isa = PBXBuildFile; fileRef = F5FEA50F2E9D017BB8922AE18B59DFFA /* MFTabbarDataManager.m */; };
-		6B3BEEE9087A8B233A7EF97BFC4602E1 /* MFTabbarItemModel.h in Headers */ = {isa = PBXBuildFile; fileRef = D4E0E5B48571BE68A6F60BBF9C3588D7 /* MFTabbarItemModel.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		6E5E5EAB2CF3E887F26A0E3D1D20402B /* MFTabbarInterface.h in Headers */ = {isa = PBXBuildFile; fileRef = 77E596C2BA80F56D8CF8A582A679B0F4 /* MFTabbarInterface.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		8637C00CE260E8E96F2D6C9C8E825D35 /* MFScreenTool.m in Sources */ = {isa = PBXBuildFile; fileRef = 77E1CF7B351FBBF09B48427A1E343737 /* MFScreenTool.m */; };
-		8C832F43FE514BEC58FF4558861B055C /* MFTabbarItemInterface.h in Headers */ = {isa = PBXBuildFile; fileRef = E5E5C0A779C836B049CE282EDF2C1404 /* MFTabbarItemInterface.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		90DA701956E9A469575D7A5B325228E8 /* MFTabbar.h in Headers */ = {isa = PBXBuildFile; fileRef = 7E23E3C4539706EA364EE2895F883CE0 /* MFTabbar.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		9853B1D841890620B8710465297522F1 /* MFTabBarViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 5873FCB1FD7AF5E8518603E13743B312 /* MFTabBarViewController.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		9D815CDAA0CA00570ADD3EFF0302CFF7 /* MFTabbarDataManagerInterface.h in Headers */ = {isa = PBXBuildFile; fileRef = 1FAA117A77608FECD82D15B1B021AAE5 /* MFTabbarDataManagerInterface.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		9F910D625ACF379EE1E13667667070B6 /* MFTabbarDataManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 9093EB61314B7F57990F0BBFA054F44A /* MFTabbarDataManager.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		A0D14A30C561CA8E1B83F84B9DF249A5 /* MFTabFactoryInterface.h in Headers */ = {isa = PBXBuildFile; fileRef = C7EAEFBF9FEBF35E609F4DBCAECB6173 /* MFTabFactoryInterface.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		A2B03F54711FEA7D99A450B4113EC6D8 /* MFTabbar.m in Sources */ = {isa = PBXBuildFile; fileRef = 891FCC63CA60B7C968DB7D4526A04B41 /* MFTabbar.m */; };
-		B2042FE172701EE4581754E0A446AE3E /* MFNavigationController.h in Headers */ = {isa = PBXBuildFile; fileRef = 1B132C33D3E799C1EFE69A6F6B53A932 /* MFNavigationController.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		B294589663B0B0F5DCC93F128E476400 /* MFTabbarItem.h in Headers */ = {isa = PBXBuildFile; fileRef = 32FC47782D4AA96E44134CC6F45C16E1 /* MFTabbarItem.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		B9080A6B5324A2F227D02975B472A50C /* MFTabBarViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2757DDCFB385A72AE7699ACCD5D862DE /* MFTabBarViewController.m */; };
-		C98EEB8617CD1F43896ABC0DA48B23D3 /* MFScreenTool.h in Headers */ = {isa = PBXBuildFile; fileRef = 48AF14BC12B348E405A59A485BC2996C /* MFScreenTool.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		D0DF1007F9A3E2B4FFE65DA2B9D9FCAF /* UIView+HPAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = EF1FDFD967FEE98C3F740F46412559C7 /* UIView+HPAdditions.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		D64FF07FA795B989B4B3F6B74323F768 /* MFTabbarControllerInterface.h in Headers */ = {isa = PBXBuildFile; fileRef = 11B97BC18298DCDF1A094AA5B722DB38 /* MFTabbarControllerInterface.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		E1F6167138972BE7569348756DEECFA0 /* module_global_tabbar-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = F14D359BFF49BE63C05F1EB103F9EC2A /* module_global_tabbar-dummy.m */; };
-		F89E028B2642F62899B25FB7728E384D /* MFTabbarFactory.m in Sources */ = {isa = PBXBuildFile; fileRef = 2CEACC6696B0C2BDD59D4AC06A4FB005 /* MFTabbarFactory.m */; };
+		16BD2BBDB57DB3E2A6CC8CF4D4B52D4B /* UIView+HPAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = 1BB668A3825511AFE304BA7763EAFDF0 /* UIView+HPAdditions.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		1CD9A348DE72D6B309CD30EE6CFA58D1 /* MFTabbarItem.h in Headers */ = {isa = PBXBuildFile; fileRef = A56CDBD0331A56BE14E3CCFDCFE66020 /* MFTabbarItem.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		2436F4F2A75CDA37F1300755B3A6BEE0 /* MFNavigationController.h in Headers */ = {isa = PBXBuildFile; fileRef = 4B9E4807606A557F769AE6490B0E46B3 /* MFNavigationController.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		29720A46E713BC9FC5ABEF343BDE0E00 /* MFTabbarDataManager.h in Headers */ = {isa = PBXBuildFile; fileRef = F6AA2F17756EFB85B1037709863241E6 /* MFTabbarDataManager.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		316F2ABC689DED562D65EDB1119BBA76 /* HPFilterTabBarAnimateTool.m in Sources */ = {isa = PBXBuildFile; fileRef = 5A4C50042A75347E3DB732704F5BBC47 /* HPFilterTabBarAnimateTool.m */; };
+		3A33A83628684B0E7F26F102A62D2C65 /* UIView+HPAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 71DAF80EC57ECC3B0DFBE75B7335BC75 /* UIView+HPAdditions.m */; };
+		451A795170C43FB6A988DC2DFC9ACCCB /* MFTabbarItemModel.h in Headers */ = {isa = PBXBuildFile; fileRef = C76C47CB14D3670754D08ED34D40990C /* MFTabbarItemModel.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		51CFB2A5FD6C86C3CBC0CD268ED5FD21 /* MFTabbarItemModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 09088F5D6564E6C8DA9A9514AB711628 /* MFTabbarItemModel.m */; };
+		78C5DA1A1D40D47CD25C1AEB835E18AE /* MFTabbar.h in Headers */ = {isa = PBXBuildFile; fileRef = 684EDDB2625B61AF0CAD497D91F04496 /* MFTabbar.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		8710A41ACB40C8FE5D0E13973D97A225 /* MFTabbarDataManagerInterface.h in Headers */ = {isa = PBXBuildFile; fileRef = 19873C6B0CD84834E70CF8CC6051FE9A /* MFTabbarDataManagerInterface.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		9CFA18C44898DD06CF5B01FD3CB3AF13 /* MFTabbarItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 47FB643A7A7685AE6A472459E5965AFD /* MFTabbarItem.m */; };
+		A3077812E84C96D21B5B9ECEBC32EC0F /* MFScreenTool.h in Headers */ = {isa = PBXBuildFile; fileRef = 189CFC805592D6D01600351DE5054C6D /* MFScreenTool.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		A411B6B89169ED00A6E2388FE7D42028 /* MFTabbar.m in Sources */ = {isa = PBXBuildFile; fileRef = C97BE0B615ABFFCC5E4DE26D4CDB601F /* MFTabbar.m */; };
+		A56185472F2C683B50227C92743CCFD2 /* module_global_tabbar-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 20698EAF65D4A3395DFF0D7743AE7DFC /* module_global_tabbar-dummy.m */; };
+		A702A1BA05ACB0B4ECA0692AA332C0CE /* MFTabbarFactory.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D92201BD24127AC8838604C7679BFC8 /* MFTabbarFactory.m */; };
+		ADA1931819D9830309DE33FD80118D4F /* MFTabbarControllerInterface.h in Headers */ = {isa = PBXBuildFile; fileRef = 640F8AD9A9503244FD2B99348775CEB1 /* MFTabbarControllerInterface.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		BAB0DBCAD50D17CAA85AF037869EE70D /* MFTabbarFactory.h in Headers */ = {isa = PBXBuildFile; fileRef = AC9D49467002498C02903F38A3928C09 /* MFTabbarFactory.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		C84C19F94042B0BCFA5BD94579F64AE3 /* MFTabbarItemDataInterface.h in Headers */ = {isa = PBXBuildFile; fileRef = AD90F449DC43B361521944046BC0E1B2 /* MFTabbarItemDataInterface.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		CCBEBF32753FEEBAAD4A88B9DEA8C964 /* MFTabBarViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 35D0E43384F9651D10AAA96445B0CA3B /* MFTabBarViewController.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		D4F03D505B696AC56E02844759F84A58 /* MFTabBarViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 73EA5D7059A341BF43AE952EDC68595E /* MFTabBarViewController.m */; };
+		D93DE72B7C16221D7D71D957731EDA99 /* MFTabbarDataManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 22649FB7B11A5528D100F4E3E7CE7B9A /* MFTabbarDataManager.m */; };
+		DAC8286D0E17364EA4A70BC72C32E60D /* MFScreenTool.m in Sources */ = {isa = PBXBuildFile; fileRef = 6439C2929A19AE2663935F6F6DBC6DFF /* MFScreenTool.m */; };
+		E309CE462B2870A87E3A1DD32667B469 /* MFNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = CFB9678571E9FE6CA9A353E436B37D7A /* MFNavigationController.m */; };
+		F07EE079EE24D6AA974AA002360EF07C /* MFTabbarItemInterface.h in Headers */ = {isa = PBXBuildFile; fileRef = 9F685C09ABCEC8BDB30DB129F5B83EF2 /* MFTabbarItemInterface.h */; settings = {ATTRIBUTES = (Project, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		81F5FA17B50CB92FED6201CCA979612B /* PBXContainerItemProxy */ = {
+		709B30001BA369E2289220123ED4A4C5 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
@@ -46,45 +48,47 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		11B97BC18298DCDF1A094AA5B722DB38 /* MFTabbarControllerInterface.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = MFTabbarControllerInterface.h; sourceTree = "<group>"; };
-		1B132C33D3E799C1EFE69A6F6B53A932 /* MFNavigationController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = MFNavigationController.h; sourceTree = "<group>"; };
-		1FAA117A77608FECD82D15B1B021AAE5 /* MFTabbarDataManagerInterface.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = MFTabbarDataManagerInterface.h; sourceTree = "<group>"; };
-		231902DE9B5C324DF759CD23F8DB7B03 /* MFTabbarItem.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = MFTabbarItem.m; sourceTree = "<group>"; };
-		2381BC6F6E98119DACBF3A91042C3CFB /* MFNavigationController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = MFNavigationController.m; sourceTree = "<group>"; };
-		2496F7864D7482584311F7D79ECE477F /* UIView+HPAdditions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UIView+HPAdditions.m"; sourceTree = "<group>"; };
-		2757DDCFB385A72AE7699ACCD5D862DE /* MFTabBarViewController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = MFTabBarViewController.m; sourceTree = "<group>"; };
+		09088F5D6564E6C8DA9A9514AB711628 /* MFTabbarItemModel.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = MFTabbarItemModel.m; sourceTree = "<group>"; };
+		132A169BDFEF60379942DF7AB57DF78F /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		189CFC805592D6D01600351DE5054C6D /* MFScreenTool.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = MFScreenTool.h; sourceTree = "<group>"; };
+		19873C6B0CD84834E70CF8CC6051FE9A /* MFTabbarDataManagerInterface.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = MFTabbarDataManagerInterface.h; sourceTree = "<group>"; };
+		1BB668A3825511AFE304BA7763EAFDF0 /* UIView+HPAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIView+HPAdditions.h"; sourceTree = "<group>"; };
+		1F3938E5F119006BDB86459EFD8980EA /* HPFilterTabBarAnimateTool.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = HPFilterTabBarAnimateTool.h; sourceTree = "<group>"; };
+		20698EAF65D4A3395DFF0D7743AE7DFC /* module_global_tabbar-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "module_global_tabbar-dummy.m"; sourceTree = "<group>"; };
+		22649FB7B11A5528D100F4E3E7CE7B9A /* MFTabbarDataManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = MFTabbarDataManager.m; sourceTree = "<group>"; };
 		29EC916C7AA56DF7ABDA3AA72E3AD579 /* Pods-Tabbar-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Tabbar-acknowledgements.markdown"; sourceTree = "<group>"; };
-		2C66827ECFB17314E6ABECCD8E2D4761 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
-		2CEACC6696B0C2BDD59D4AC06A4FB005 /* MFTabbarFactory.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = MFTabbarFactory.m; sourceTree = "<group>"; };
-		303DFDD6022A2F910D16AD5F7D0AB9D0 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
-		32FC47782D4AA96E44134CC6F45C16E1 /* MFTabbarItem.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = MFTabbarItem.h; sourceTree = "<group>"; };
-		48AF14BC12B348E405A59A485BC2996C /* MFScreenTool.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = MFScreenTool.h; sourceTree = "<group>"; };
+		2D85A6B7082B953CFF9EC6E9D059495F /* MFTabbarInterface.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = MFTabbarInterface.h; sourceTree = "<group>"; };
+		35D0E43384F9651D10AAA96445B0CA3B /* MFTabBarViewController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = MFTabBarViewController.h; sourceTree = "<group>"; };
+		39D09DFF67683D9D3DC720A4093B5E22 /* module_global_tabbar.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = module_global_tabbar.debug.xcconfig; sourceTree = "<group>"; };
+		3D92201BD24127AC8838604C7679BFC8 /* MFTabbarFactory.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = MFTabbarFactory.m; sourceTree = "<group>"; };
+		47FB643A7A7685AE6A472459E5965AFD /* MFTabbarItem.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = MFTabbarItem.m; sourceTree = "<group>"; };
+		4A04AB48FB82949550E13A2F91AA5A38 /* module_global_tabbar.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = module_global_tabbar.release.xcconfig; sourceTree = "<group>"; };
+		4B9E4807606A557F769AE6490B0E46B3 /* MFNavigationController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = MFNavigationController.h; sourceTree = "<group>"; };
 		4E6F31D8C23A4B2DA686595E249A996D /* Pods-Tabbar.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Tabbar.release.xcconfig"; sourceTree = "<group>"; };
-		5153E6F45D5736A9DDA9236DCB46C216 /* module_global_tabbar-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "module_global_tabbar-prefix.pch"; sourceTree = "<group>"; };
-		5873FCB1FD7AF5E8518603E13743B312 /* MFTabBarViewController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = MFTabBarViewController.h; sourceTree = "<group>"; };
-		77976A2485E6D3894E4BF91A470D416D /* module_global_tabbar.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = module_global_tabbar.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		77E1CF7B351FBBF09B48427A1E343737 /* MFScreenTool.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = MFScreenTool.m; sourceTree = "<group>"; };
-		77E596C2BA80F56D8CF8A582A679B0F4 /* MFTabbarInterface.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = MFTabbarInterface.h; sourceTree = "<group>"; };
-		7E23E3C4539706EA364EE2895F883CE0 /* MFTabbar.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = MFTabbar.h; sourceTree = "<group>"; };
-		891FCC63CA60B7C968DB7D4526A04B41 /* MFTabbar.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = MFTabbar.m; sourceTree = "<group>"; };
-		9093EB61314B7F57990F0BBFA054F44A /* MFTabbarDataManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = MFTabbarDataManager.h; sourceTree = "<group>"; };
-		962E36410CA7A3E923AA0214BBDAC3C6 /* MFTabbarFactory.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = MFTabbarFactory.h; sourceTree = "<group>"; };
+		5A4C50042A75347E3DB732704F5BBC47 /* HPFilterTabBarAnimateTool.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = HPFilterTabBarAnimateTool.m; sourceTree = "<group>"; };
+		640F8AD9A9503244FD2B99348775CEB1 /* MFTabbarControllerInterface.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = MFTabbarControllerInterface.h; sourceTree = "<group>"; };
+		6439C2929A19AE2663935F6F6DBC6DFF /* MFScreenTool.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = MFScreenTool.m; sourceTree = "<group>"; };
+		684EDDB2625B61AF0CAD497D91F04496 /* MFTabbar.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = MFTabbar.h; sourceTree = "<group>"; };
+		6EFC7DD42E88F89EED95A04B8ABC9A05 /* MFTabFactoryInterface.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = MFTabFactoryInterface.h; sourceTree = "<group>"; };
+		71DAF80EC57ECC3B0DFBE75B7335BC75 /* UIView+HPAdditions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UIView+HPAdditions.m"; sourceTree = "<group>"; };
+		73EA5D7059A341BF43AE952EDC68595E /* MFTabBarViewController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = MFTabBarViewController.m; sourceTree = "<group>"; };
+		7BE94430E883E614A4D007D130492637 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		9ED1DB9CCA54830E1528FD17D042BD04 /* MFTabbarItemDataInterface.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = MFTabbarItemDataInterface.h; sourceTree = "<group>"; };
-		C7EAEFBF9FEBF35E609F4DBCAECB6173 /* MFTabFactoryInterface.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = MFTabFactoryInterface.h; sourceTree = "<group>"; };
-		CC96D3CEB9528B3EE46116EEBCE9948A /* module_global_tabbar.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = module_global_tabbar.debug.xcconfig; sourceTree = "<group>"; };
-		D47ACF7A089004EF19BFFD9BC8F9927D /* MFTabbarItemModel.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = MFTabbarItemModel.m; sourceTree = "<group>"; };
-		D4E0E5B48571BE68A6F60BBF9C3588D7 /* MFTabbarItemModel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = MFTabbarItemModel.h; sourceTree = "<group>"; };
+		9F685C09ABCEC8BDB30DB129F5B83EF2 /* MFTabbarItemInterface.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = MFTabbarItemInterface.h; sourceTree = "<group>"; };
+		A56CDBD0331A56BE14E3CCFDCFE66020 /* MFTabbarItem.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = MFTabbarItem.h; sourceTree = "<group>"; };
+		AC9D49467002498C02903F38A3928C09 /* MFTabbarFactory.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = MFTabbarFactory.h; sourceTree = "<group>"; };
+		AD90F449DC43B361521944046BC0E1B2 /* MFTabbarItemDataInterface.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = MFTabbarItemDataInterface.h; sourceTree = "<group>"; };
+		B4E234868523AB293C7F6ED8F8C789A2 /* module_global_tabbar-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "module_global_tabbar-prefix.pch"; sourceTree = "<group>"; };
+		C76C47CB14D3670754D08ED34D40990C /* MFTabbarItemModel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = MFTabbarItemModel.h; sourceTree = "<group>"; };
+		C97BE0B615ABFFCC5E4DE26D4CDB601F /* MFTabbar.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = MFTabbar.m; sourceTree = "<group>"; };
+		CFB9678571E9FE6CA9A353E436B37D7A /* MFNavigationController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = MFNavigationController.m; sourceTree = "<group>"; };
 		D8B255B3D4575788A82B85776804EDDA /* Pods-Tabbar */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "Pods-Tabbar"; path = "libPods-Tabbar.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DD8E5202CFE850F1B2DBB1BBFED2349C /* Pods-Tabbar-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Tabbar-acknowledgements.plist"; sourceTree = "<group>"; };
 		DE727C1379D46537713F0F7F532E2FCD /* module_global_tabbar */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = module_global_tabbar; path = libmodule_global_tabbar.a; sourceTree = BUILT_PRODUCTS_DIR; };
-		E5E5C0A779C836B049CE282EDF2C1404 /* MFTabbarItemInterface.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = MFTabbarItemInterface.h; sourceTree = "<group>"; };
 		E6E1537852CAD5670DD20FDE7E0AAFB6 /* Pods-Tabbar.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Tabbar.debug.xcconfig"; sourceTree = "<group>"; };
-		EF1FDFD967FEE98C3F740F46412559C7 /* UIView+HPAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIView+HPAdditions.h"; sourceTree = "<group>"; };
-		F14D359BFF49BE63C05F1EB103F9EC2A /* module_global_tabbar-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "module_global_tabbar-dummy.m"; sourceTree = "<group>"; };
 		F56D11F7EF047DD4B94D31066DDF2A34 /* Pods-Tabbar-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Tabbar-dummy.m"; sourceTree = "<group>"; };
-		F5FEA50F2E9D017BB8922AE18B59DFFA /* MFTabbarDataManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = MFTabbarDataManager.m; sourceTree = "<group>"; };
-		F643AA8590153FAAE541EB02E89094F2 /* module_global_tabbar.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = module_global_tabbar.release.xcconfig; sourceTree = "<group>"; };
+		F6AA2F17756EFB85B1037709863241E6 /* MFTabbarDataManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = MFTabbarDataManager.h; sourceTree = "<group>"; };
+		FAE4D61BDFF2FBF7A95D1A2827AEBD89 /* module_global_tabbar.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = module_global_tabbar.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,7 +99,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4A8856419CB2452A692723301B6B38EE /* Frameworks */ = {
+		6E5DA76BAB01386762B60B06BC231B0E /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -105,16 +109,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		260D398E2D04F1E7ECFD7776F9F4F0AD /* Controller */ = {
+		0899B3F3D8B860A2A31A3412D4AA0E3E /* View */ = {
 			isa = PBXGroup;
 			children = (
-				1B132C33D3E799C1EFE69A6F6B53A932 /* MFNavigationController.h */,
-				2381BC6F6E98119DACBF3A91042C3CFB /* MFNavigationController.m */,
-				5873FCB1FD7AF5E8518603E13743B312 /* MFTabBarViewController.h */,
-				2757DDCFB385A72AE7699ACCD5D862DE /* MFTabBarViewController.m */,
+				684EDDB2625B61AF0CAD497D91F04496 /* MFTabbar.h */,
+				C97BE0B615ABFFCC5E4DE26D4CDB601F /* MFTabbar.m */,
+				A56CDBD0331A56BE14E3CCFDCFE66020 /* MFTabbarItem.h */,
+				47FB643A7A7685AE6A472459E5965AFD /* MFTabbarItem.m */,
+				1BB668A3825511AFE304BA7763EAFDF0 /* UIView+HPAdditions.h */,
+				71DAF80EC57ECC3B0DFBE75B7335BC75 /* UIView+HPAdditions.m */,
 			);
-			name = Controller;
-			path = Controller;
+			name = View;
+			path = View;
 			sourceTree = "<group>";
 		};
 		2E6179E411EF511B7A8DF34B4529B620 /* Products */ = {
@@ -126,45 +132,16 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		3AE5CB1187E9F36C35AC72B503A55249 /* Data */ = {
+		3FD5B8024B4662FD1C7B4435B6844504 /* Factory */ = {
 			isa = PBXGroup;
 			children = (
-				48AF14BC12B348E405A59A485BC2996C /* MFScreenTool.h */,
-				77E1CF7B351FBBF09B48427A1E343737 /* MFScreenTool.m */,
-				9093EB61314B7F57990F0BBFA054F44A /* MFTabbarDataManager.h */,
-				F5FEA50F2E9D017BB8922AE18B59DFFA /* MFTabbarDataManager.m */,
-				D4E0E5B48571BE68A6F60BBF9C3588D7 /* MFTabbarItemModel.h */,
-				D47ACF7A089004EF19BFFD9BC8F9927D /* MFTabbarItemModel.m */,
+				1F3938E5F119006BDB86459EFD8980EA /* HPFilterTabBarAnimateTool.h */,
+				5A4C50042A75347E3DB732704F5BBC47 /* HPFilterTabBarAnimateTool.m */,
+				AC9D49467002498C02903F38A3928C09 /* MFTabbarFactory.h */,
+				3D92201BD24127AC8838604C7679BFC8 /* MFTabbarFactory.m */,
 			);
-			name = Data;
-			path = Data;
-			sourceTree = "<group>";
-		};
-		3C767CE5D74400AF6B1232B171313C99 /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				F14D359BFF49BE63C05F1EB103F9EC2A /* module_global_tabbar-dummy.m */,
-				5153E6F45D5736A9DDA9236DCB46C216 /* module_global_tabbar-prefix.pch */,
-				CC96D3CEB9528B3EE46116EEBCE9948A /* module_global_tabbar.debug.xcconfig */,
-				F643AA8590153FAAE541EB02E89094F2 /* module_global_tabbar.release.xcconfig */,
-			);
-			name = "Support Files";
-			path = "../Pods/Target Support Files/module_global_tabbar";
-			sourceTree = "<group>";
-		};
-		4AD36D24A5D58F5A74AD7DD28DA49EB3 /* module_global_tabbar */ = {
-			isa = PBXGroup;
-			children = (
-				260D398E2D04F1E7ECFD7776F9F4F0AD /* Controller */,
-				3AE5CB1187E9F36C35AC72B503A55249 /* Data */,
-				87D6014D6C9BC2B49601312CD0849F0F /* Factory */,
-				78F8F9B63DB1AB6616BBF77EE9CCEE04 /* Header */,
-				8A90857A8D5A48B52A50065EF34AA385 /* Pod */,
-				3C767CE5D74400AF6B1232B171313C99 /* Support Files */,
-				FE2D85DD5807CBB118F706019AEC5138 /* View */,
-			);
-			name = module_global_tabbar;
-			path = ../module_global_tabbar;
+			name = Factory;
+			path = Factory;
 			sourceTree = "<group>";
 		};
 		4ED64FE767B5AF05F90CAF7713211117 /* Pods-Tabbar */ = {
@@ -180,38 +157,55 @@
 			path = "Target Support Files/Pods-Tabbar";
 			sourceTree = "<group>";
 		};
-		78F8F9B63DB1AB6616BBF77EE9CCEE04 /* Header */ = {
+		50529F0B619C2F0F7562A90C3521CC52 /* Pod */ = {
 			isa = PBXGroup;
 			children = (
-				11B97BC18298DCDF1A094AA5B722DB38 /* MFTabbarControllerInterface.h */,
-				1FAA117A77608FECD82D15B1B021AAE5 /* MFTabbarDataManagerInterface.h */,
-				77E596C2BA80F56D8CF8A582A679B0F4 /* MFTabbarInterface.h */,
-				9ED1DB9CCA54830E1528FD17D042BD04 /* MFTabbarItemDataInterface.h */,
-				E5E5C0A779C836B049CE282EDF2C1404 /* MFTabbarItemInterface.h */,
-				C7EAEFBF9FEBF35E609F4DBCAECB6173 /* MFTabFactoryInterface.h */,
+				7BE94430E883E614A4D007D130492637 /* LICENSE */,
+				FAE4D61BDFF2FBF7A95D1A2827AEBD89 /* module_global_tabbar.podspec */,
+				132A169BDFEF60379942DF7AB57DF78F /* README.md */,
+			);
+			name = Pod;
+			sourceTree = "<group>";
+		};
+		58B10925296628170F8085E99FF71173 /* module_global_tabbar */ = {
+			isa = PBXGroup;
+			children = (
+				E31D4B0C99CE2F78BF3E301B4D28FFA7 /* Controller */,
+				BC49AE938433E90C35E3ED0693CCADED /* Data */,
+				3FD5B8024B4662FD1C7B4435B6844504 /* Factory */,
+				6EE68A837574DBA6247F6031FB0BA269 /* Header */,
+				50529F0B619C2F0F7562A90C3521CC52 /* Pod */,
+				689639F018F5FC5444FCFFD8EE31FF3F /* Support Files */,
+				0899B3F3D8B860A2A31A3412D4AA0E3E /* View */,
+			);
+			name = module_global_tabbar;
+			path = ../module_global_tabbar;
+			sourceTree = "<group>";
+		};
+		689639F018F5FC5444FCFFD8EE31FF3F /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				20698EAF65D4A3395DFF0D7743AE7DFC /* module_global_tabbar-dummy.m */,
+				B4E234868523AB293C7F6ED8F8C789A2 /* module_global_tabbar-prefix.pch */,
+				39D09DFF67683D9D3DC720A4093B5E22 /* module_global_tabbar.debug.xcconfig */,
+				4A04AB48FB82949550E13A2F91AA5A38 /* module_global_tabbar.release.xcconfig */,
+			);
+			name = "Support Files";
+			path = "../Pods/Target Support Files/module_global_tabbar";
+			sourceTree = "<group>";
+		};
+		6EE68A837574DBA6247F6031FB0BA269 /* Header */ = {
+			isa = PBXGroup;
+			children = (
+				640F8AD9A9503244FD2B99348775CEB1 /* MFTabbarControllerInterface.h */,
+				19873C6B0CD84834E70CF8CC6051FE9A /* MFTabbarDataManagerInterface.h */,
+				2D85A6B7082B953CFF9EC6E9D059495F /* MFTabbarInterface.h */,
+				AD90F449DC43B361521944046BC0E1B2 /* MFTabbarItemDataInterface.h */,
+				9F685C09ABCEC8BDB30DB129F5B83EF2 /* MFTabbarItemInterface.h */,
+				6EFC7DD42E88F89EED95A04B8ABC9A05 /* MFTabFactoryInterface.h */,
 			);
 			name = Header;
 			path = Header;
-			sourceTree = "<group>";
-		};
-		87D6014D6C9BC2B49601312CD0849F0F /* Factory */ = {
-			isa = PBXGroup;
-			children = (
-				962E36410CA7A3E923AA0214BBDAC3C6 /* MFTabbarFactory.h */,
-				2CEACC6696B0C2BDD59D4AC06A4FB005 /* MFTabbarFactory.m */,
-			);
-			name = Factory;
-			path = Factory;
-			sourceTree = "<group>";
-		};
-		8A90857A8D5A48B52A50065EF34AA385 /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				2C66827ECFB17314E6ABECCD8E2D4761 /* LICENSE */,
-				77976A2485E6D3894E4BF91A470D416D /* module_global_tabbar.podspec */,
-				303DFDD6022A2F910D16AD5F7D0AB9D0 /* README.md */,
-			);
-			name = Pod;
 			sourceTree = "<group>";
 		};
 		8B417F33505B49B29BE6C6D49E00E8FB /* Targets Support Files */ = {
@@ -222,10 +216,24 @@
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
+		BC49AE938433E90C35E3ED0693CCADED /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				189CFC805592D6D01600351DE5054C6D /* MFScreenTool.h */,
+				6439C2929A19AE2663935F6F6DBC6DFF /* MFScreenTool.m */,
+				F6AA2F17756EFB85B1037709863241E6 /* MFTabbarDataManager.h */,
+				22649FB7B11A5528D100F4E3E7CE7B9A /* MFTabbarDataManager.m */,
+				C76C47CB14D3670754D08ED34D40990C /* MFTabbarItemModel.h */,
+				09088F5D6564E6C8DA9A9514AB711628 /* MFTabbarItemModel.m */,
+			);
+			name = Data;
+			path = Data;
+			sourceTree = "<group>";
+		};
 		BDBB1EDB30F71D02E917B848CDF0DBEE /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				4AD36D24A5D58F5A74AD7DD28DA49EB3 /* module_global_tabbar */,
+				58B10925296628170F8085E99FF71173 /* module_global_tabbar */,
 			);
 			name = "Development Pods";
 			sourceTree = "<group>";
@@ -248,42 +256,41 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		FE2D85DD5807CBB118F706019AEC5138 /* View */ = {
+		E31D4B0C99CE2F78BF3E301B4D28FFA7 /* Controller */ = {
 			isa = PBXGroup;
 			children = (
-				7E23E3C4539706EA364EE2895F883CE0 /* MFTabbar.h */,
-				891FCC63CA60B7C968DB7D4526A04B41 /* MFTabbar.m */,
-				32FC47782D4AA96E44134CC6F45C16E1 /* MFTabbarItem.h */,
-				231902DE9B5C324DF759CD23F8DB7B03 /* MFTabbarItem.m */,
-				EF1FDFD967FEE98C3F740F46412559C7 /* UIView+HPAdditions.h */,
-				2496F7864D7482584311F7D79ECE477F /* UIView+HPAdditions.m */,
+				4B9E4807606A557F769AE6490B0E46B3 /* MFNavigationController.h */,
+				CFB9678571E9FE6CA9A353E436B37D7A /* MFNavigationController.m */,
+				35D0E43384F9651D10AAA96445B0CA3B /* MFTabBarViewController.h */,
+				73EA5D7059A341BF43AE952EDC68595E /* MFTabBarViewController.m */,
 			);
-			name = View;
-			path = View;
+			name = Controller;
+			path = Controller;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		DD70541342E11466D9CB99583CEE55D9 /* Headers */ = {
+		1CE46314D895B3BF52EE56083B5D346B /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B2042FE172701EE4581754E0A446AE3E /* MFNavigationController.h in Headers */,
-				C98EEB8617CD1F43896ABC0DA48B23D3 /* MFScreenTool.h in Headers */,
-				90DA701956E9A469575D7A5B325228E8 /* MFTabbar.h in Headers */,
-				D64FF07FA795B989B4B3F6B74323F768 /* MFTabbarControllerInterface.h in Headers */,
-				9F910D625ACF379EE1E13667667070B6 /* MFTabbarDataManager.h in Headers */,
-				9D815CDAA0CA00570ADD3EFF0302CFF7 /* MFTabbarDataManagerInterface.h in Headers */,
-				36C37BDF65C6D3A071957AF3564876AF /* MFTabbarFactory.h in Headers */,
-				6E5E5EAB2CF3E887F26A0E3D1D20402B /* MFTabbarInterface.h in Headers */,
-				B294589663B0B0F5DCC93F128E476400 /* MFTabbarItem.h in Headers */,
-				5E2D0FA68C8ECD868F308686F09C7DAD /* MFTabbarItemDataInterface.h in Headers */,
-				8C832F43FE514BEC58FF4558861B055C /* MFTabbarItemInterface.h in Headers */,
-				6B3BEEE9087A8B233A7EF97BFC4602E1 /* MFTabbarItemModel.h in Headers */,
-				9853B1D841890620B8710465297522F1 /* MFTabBarViewController.h in Headers */,
-				A0D14A30C561CA8E1B83F84B9DF249A5 /* MFTabFactoryInterface.h in Headers */,
-				D0DF1007F9A3E2B4FFE65DA2B9D9FCAF /* UIView+HPAdditions.h in Headers */,
+				054230D1CCF2095EBC1522E0A85E074F /* HPFilterTabBarAnimateTool.h in Headers */,
+				2436F4F2A75CDA37F1300755B3A6BEE0 /* MFNavigationController.h in Headers */,
+				A3077812E84C96D21B5B9ECEBC32EC0F /* MFScreenTool.h in Headers */,
+				78C5DA1A1D40D47CD25C1AEB835E18AE /* MFTabbar.h in Headers */,
+				ADA1931819D9830309DE33FD80118D4F /* MFTabbarControllerInterface.h in Headers */,
+				29720A46E713BC9FC5ABEF343BDE0E00 /* MFTabbarDataManager.h in Headers */,
+				8710A41ACB40C8FE5D0E13973D97A225 /* MFTabbarDataManagerInterface.h in Headers */,
+				BAB0DBCAD50D17CAA85AF037869EE70D /* MFTabbarFactory.h in Headers */,
+				017FC78ABE9C0FBF8B90751668EAEA2F /* MFTabbarInterface.h in Headers */,
+				1CD9A348DE72D6B309CD30EE6CFA58D1 /* MFTabbarItem.h in Headers */,
+				C84C19F94042B0BCFA5BD94579F64AE3 /* MFTabbarItemDataInterface.h in Headers */,
+				F07EE079EE24D6AA974AA002360EF07C /* MFTabbarItemInterface.h in Headers */,
+				451A795170C43FB6A988DC2DFC9ACCCB /* MFTabbarItemModel.h in Headers */,
+				CCBEBF32753FEEBAAD4A88B9DEA8C964 /* MFTabBarViewController.h in Headers */,
+				10832810F0B506F7EA7D4A11DD39FADE /* MFTabFactoryInterface.h in Headers */,
+				16BD2BBDB57DB3E2A6CC8CF4D4B52D4B /* UIView+HPAdditions.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -299,11 +306,11 @@
 /* Begin PBXNativeTarget section */
 		B463DBEA52EEEC06BBE6AE6AD8CAF419 /* module_global_tabbar */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7BCD5506762AF6283E7EAEAA98C18AF9 /* Build configuration list for PBXNativeTarget "module_global_tabbar" */;
+			buildConfigurationList = DD5750F454C2250369F46F09D88987C2 /* Build configuration list for PBXNativeTarget "module_global_tabbar" */;
 			buildPhases = (
-				DD70541342E11466D9CB99583CEE55D9 /* Headers */,
-				640C9B2203819EE08BCB2A6F8BED481E /* Sources */,
-				4A8856419CB2452A692723301B6B38EE /* Frameworks */,
+				1CE46314D895B3BF52EE56083B5D346B /* Headers */,
+				E2C9A89DCC1D54F82C37B21CA9ADC503 /* Sources */,
+				6E5DA76BAB01386762B60B06BC231B0E /* Frameworks */,
 			);
 			buildRules = (
 			);
@@ -325,7 +332,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				11B037D6B3BF340F58857CA6FCD3EBD0 /* PBXTargetDependency */,
+				3B9648DA8EAF9C350613A3B764DC2D46 /* PBXTargetDependency */,
 			);
 			name = "Pods-Tabbar";
 			productName = "Pods-Tabbar";
@@ -369,35 +376,59 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		640C9B2203819EE08BCB2A6F8BED481E /* Sources */ = {
+		E2C9A89DCC1D54F82C37B21CA9ADC503 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				242BD07DD7C366726F1B213DCD2D9F7F /* MFNavigationController.m in Sources */,
-				8637C00CE260E8E96F2D6C9C8E825D35 /* MFScreenTool.m in Sources */,
-				A2B03F54711FEA7D99A450B4113EC6D8 /* MFTabbar.m in Sources */,
-				605E8C185373174FE162D7CB4E7211B5 /* MFTabbarDataManager.m in Sources */,
-				F89E028B2642F62899B25FB7728E384D /* MFTabbarFactory.m in Sources */,
-				30C45C0BDEDED5C8CFBA1738227A1791 /* MFTabbarItem.m in Sources */,
-				38CEEC8C16F08A792DE8BB93AC8629DA /* MFTabbarItemModel.m in Sources */,
-				B9080A6B5324A2F227D02975B472A50C /* MFTabBarViewController.m in Sources */,
-				E1F6167138972BE7569348756DEECFA0 /* module_global_tabbar-dummy.m in Sources */,
-				3BC70C299966026E842C77805D8E1A5F /* UIView+HPAdditions.m in Sources */,
+				316F2ABC689DED562D65EDB1119BBA76 /* HPFilterTabBarAnimateTool.m in Sources */,
+				E309CE462B2870A87E3A1DD32667B469 /* MFNavigationController.m in Sources */,
+				DAC8286D0E17364EA4A70BC72C32E60D /* MFScreenTool.m in Sources */,
+				A411B6B89169ED00A6E2388FE7D42028 /* MFTabbar.m in Sources */,
+				D93DE72B7C16221D7D71D957731EDA99 /* MFTabbarDataManager.m in Sources */,
+				A702A1BA05ACB0B4ECA0692AA332C0CE /* MFTabbarFactory.m in Sources */,
+				9CFA18C44898DD06CF5B01FD3CB3AF13 /* MFTabbarItem.m in Sources */,
+				51CFB2A5FD6C86C3CBC0CD268ED5FD21 /* MFTabbarItemModel.m in Sources */,
+				D4F03D505B696AC56E02844759F84A58 /* MFTabBarViewController.m in Sources */,
+				A56185472F2C683B50227C92743CCFD2 /* module_global_tabbar-dummy.m in Sources */,
+				3A33A83628684B0E7F26F102A62D2C65 /* UIView+HPAdditions.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		11B037D6B3BF340F58857CA6FCD3EBD0 /* PBXTargetDependency */ = {
+		3B9648DA8EAF9C350613A3B764DC2D46 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = module_global_tabbar;
 			target = B463DBEA52EEEC06BBE6AE6AD8CAF419 /* module_global_tabbar */;
-			targetProxy = 81F5FA17B50CB92FED6201CCA979612B /* PBXContainerItemProxy */;
+			targetProxy = 709B30001BA369E2289220123ED4A4C5 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
+		1919C71F9677663279E601623EF29DAA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 39D09DFF67683D9D3DC720A4093B5E22 /* module_global_tabbar.debug.xcconfig */;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				GCC_PREFIX_HEADER = "Target Support Files/module_global_tabbar/module_global_tabbar-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRIVATE_HEADERS_FOLDER_PATH = "";
+				PRODUCT_MODULE_NAME = module_global_tabbar;
+				PRODUCT_NAME = module_global_tabbar;
+				PUBLIC_HEADERS_FOLDER_PATH = "";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
 		446BA1B9A1F1F2F95D04E5F82EB1B0F4 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -464,29 +495,6 @@
 			};
 			name = Debug;
 		};
-		58658CFB27A982AF6CBA14CD78302E2A /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = CC96D3CEB9528B3EE46116EEBCE9948A /* module_global_tabbar.debug.xcconfig */;
-			buildSettings = {
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				GCC_PREFIX_HEADER = "Target Support Files/module_global_tabbar/module_global_tabbar-prefix.pch";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PRIVATE_HEADERS_FOLDER_PATH = "";
-				PRODUCT_MODULE_NAME = module_global_tabbar;
-				PRODUCT_NAME = module_global_tabbar;
-				PUBLIC_HEADERS_FOLDER_PATH = "";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Debug;
-		};
 		5D47E2EFAC6FAC81A782D9BFD8736F53 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -549,30 +557,6 @@
 			};
 			name = Release;
 		};
-		784D638981050E7730190FCFEAA514FB /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = F643AA8590153FAAE541EB02E89094F2 /* module_global_tabbar.release.xcconfig */;
-			buildSettings = {
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				GCC_PREFIX_HEADER = "Target Support Files/module_global_tabbar/module_global_tabbar-prefix.pch";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PRIVATE_HEADERS_FOLDER_PATH = "";
-				PRODUCT_MODULE_NAME = module_global_tabbar;
-				PRODUCT_NAME = module_global_tabbar;
-				PUBLIC_HEADERS_FOLDER_PATH = "";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-			};
-			name = Release;
-		};
 		8087548F9288B28C9F73EABECF8DF3F7 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = E6E1537852CAD5670DD20FDE7E0AAFB6 /* Pods-Tabbar.debug.xcconfig */;
@@ -593,6 +577,30 @@
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
+		};
+		94FA7CBB4BAD8AE6063CFBBCF22104CE /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4A04AB48FB82949550E13A2F91AA5A38 /* module_global_tabbar.release.xcconfig */;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				GCC_PREFIX_HEADER = "Target Support Files/module_global_tabbar/module_global_tabbar-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRIVATE_HEADERS_FOLDER_PATH = "";
+				PRODUCT_MODULE_NAME = module_global_tabbar;
+				PRODUCT_NAME = module_global_tabbar;
+				PUBLIC_HEADERS_FOLDER_PATH = "";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
 		};
 		F2E530EF0D332C13C4CFBD039BB86226 /* Release */ = {
 			isa = XCBuildConfiguration;
@@ -637,11 +645,11 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7BCD5506762AF6283E7EAEAA98C18AF9 /* Build configuration list for PBXNativeTarget "module_global_tabbar" */ = {
+		DD5750F454C2250369F46F09D88987C2 /* Build configuration list for PBXNativeTarget "module_global_tabbar" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				58658CFB27A982AF6CBA14CD78302E2A /* Debug */,
-				784D638981050E7730190FCFEAA514FB /* Release */,
+				1919C71F9677663279E601623EF29DAA /* Debug */,
+				94FA7CBB4BAD8AE6063CFBBCF22104CE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
